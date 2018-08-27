@@ -1,4 +1,4 @@
-# Inventory
+# Inventaire
 
 ## Pricing
 
@@ -19,15 +19,19 @@ Another difference is that SKUs are typically eight alpha-numeric digits, while 
 
 In conclusion, SKUs are for internal use, and UPCs are for external, or universal, use.
 
-## [Stock Control](inventory/stock-control.md)
+## Stock Control
 
 Stock control, also known as inventory control, is used to show how much stock you have at any one time, and how you keep track of it. It applies to every item you use to produce a product or service, from **raw materials** to **finished goods**. It covers stock at every stage of the production process, from **purchase** and **delivery** to **using** and **re-ordering** the stock.
+
+{% page-ref page="stock-control.md" %}
 
 ## Variant
 
 Variants are different version of the same product. They ease the creation of products that keep the same characteristics with minor changes. A good example would be the production of clothes. The design and material is the same, but the color or the size could change.
 
 The pricing of variant is important. A variant can be priced directly within the stock screen or use the price of the parent product. The user should always be able to determine if a variant have it's own price or if the price comes from the parent.
+
+{% page-ref page="variantes.md" %}
 
 ## Assembly or Composite
 

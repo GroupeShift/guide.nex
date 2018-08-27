@@ -1,4 +1,4 @@
-# Stock Control
+# Contrôle des stocks
 
 ## Stock Control
 
