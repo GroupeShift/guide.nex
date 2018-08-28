@@ -1,3 +1,10 @@
+---
+description: >-
+  La documentation d’inventaire apporte des informations pertinentes quant à la
+  gestion de tous vos produits et variantes en plus du contrôle d’inventaire et
+  de gestion des prix.
+---
+
 # Inventaire
 
 ## Pricing

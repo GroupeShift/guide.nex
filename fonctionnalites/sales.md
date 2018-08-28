@@ -1,3 +1,10 @@
+---
+description: >-
+  La documentation de ventes apporte de l’information sur la fonctionnalité de
+  prises de commandes, de gestion des prix ainsi qu’une portion de la gestion
+  client.
+---
+
 # Ventes
 
 ## Clients

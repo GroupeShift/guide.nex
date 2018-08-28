@@ -1,3 +1,10 @@
+---
+description: >-
+  La documentation de paramètres donne de l’information ainsi que des truc et
+  conseil afin de faciliter la gestion de votre application et de votre équipe.
+  Elle vous informe aussi des moyens pour person
+---
+
 # Paramètres
 
 Il existe différents paramètre possible dans votre application Nex.
