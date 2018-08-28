@@ -4,10 +4,8 @@
 
 ## Changements
 
-* [Juillet 2018](changements/juillet-2018/README.md)
-  * [20180725.2](changements/juillet-2018/20180725.2.md)
-* [Août 2018](changements/aout-2018/README.md)
-  * [20180816.1](changements/aout-2018/20180816.1.md)
+* [2018](changements/juillet-2018.md)
+* [Août 2018](changements/aout-2018.md)
 
 ## Fonctionnalités
 
