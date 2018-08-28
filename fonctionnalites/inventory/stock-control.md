@@ -25,7 +25,7 @@ There are four main types of stock:
 
 Categorizing the stock could help controlling the quantities. For example, having a **Low**, **Medium** and **High** level of importance could lead to different set of variables. You might want to re-order the high priority stock first. If your stock levels are limited by capital, this will help you to plan expenses on new and replacement stock.
 
-![](https://github.com/LeGroupeShift/guide.nex/tree/8777c786c77aeab5e898143813a018f68dde4402/fr/features/inventory/Resources/Stock%20Control%20Chart.png)
+![](../../.gitbook/assets/stock-control-chart.png)
 
 ### Low stock level
 
@@ -120,7 +120,7 @@ TC = (D/Q) * S + (Q/2) * H
 
 There are variant of this process such as _POQ_ which we might want to cover in extra documentations.
 
-![](https://github.com/LeGroupeShift/guide.nex/tree/8777c786c77aeab5e898143813a018f68dde4402/fr/features/inventory/Resources/Economic%20Order%20Quantity.png)
+![Co&#xFB;ts annuel en fonction des la quantit&#xE9; d&apos;inventaire.](../../.gitbook/assets/economic-order-quantity.png)
 
 ## Stock Control Systems: Manual
 
