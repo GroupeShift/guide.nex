@@ -4,8 +4,7 @@
 
 ## Changements
 
-* [2018](changements/juillet-2018.md)
-* [Août 2018](changements/aout-2018.md)
+* [2018](changements/2018.md)
 
 ## Fonctionnalités
 
