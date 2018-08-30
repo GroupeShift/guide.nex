@@ -4,3 +4,5 @@ Les variantes de produit sont créé à partir d'un produit existants ayant des 
 
 > A good example would be the production of clothes. The design and material is the same, but the color or the size could change.
 
+![](../../.gitbook/assets/variantes.png)
+
