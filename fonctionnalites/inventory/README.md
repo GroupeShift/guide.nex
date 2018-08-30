@@ -7,24 +7,23 @@ description: >-
 
 # Inventaire
 
-## Pricing
+## Les codes de produits
 
-\[COMPLETE DESCRIPTION HERE\]
+Dans le portail Nex, il existe deux façons différentes d'ajouter un code à vos produits : Le **SKU** et le **UPC**. Bien que plusieurs personne interchange les deux termes leur signification diffères grandement. C'est pourquoi dans le portail Nex il est possible d'entrer les deux valeurs séparément.
 
-* The price of a product is done within the stock screen.
-* The price can differ based on variant.
-* We should categorize clients based on volume.
-* We should be able to price a product for a specific client.
+![](../../.gitbook/assets/artboard-1.png)
 
-## SKU and UPC
+### L'unité de gestion des stocks \(SKU\)
 
-While some may haphazardly interchange the terms UPC and SKU, they are actually two quite different entities. They are both numeric-based codes assigned to products, but UPCs, or Universal Product Codes are standardized for business use and provide a product description that, once scanned, anyone could read. In contrast, a SKU, or Stock Keeping Unit, is a number assigned to a product by the company for stock-keeping purposes and internal operations.
+L'unité de gestion des stocks \(UGS\) de l'anglais _\(Stock keeping unit - SKU\)_ s'agit d'une unité de mesure utilisée en gestion des stocks. Elle désigne une référence élémentaire \(par exemple une marque ou un modèle\), à un niveau suffisamment déterminé pour servir à la gestion précise des volumes disponibles. 
 
-The UPC code is affixed to a product wherever it is sold, remaining a constant throughout the product’s shelf life. Since a SKU is unique to the company, the same product would have different SKUs if sold by different companies, but they would have the same UPC.
+> Bien qu'aucune standardisation n'existe pour les codes UGS ils sont généralement désignés par un code alphanumérique.
 
-Another difference is that SKUs are typically eight alpha-numeric digits, while UPCs are 12 digits, numeric only.
+### Le code universel de produit \(UPC\)
 
-In conclusion, SKUs are for internal use, and UPCs are for external, or universal, use.
+Le code universel des produits CUP de l'anglais \(Universal Product Code - UPC\) est un système d'identification numérique globalement utilisé aux États-Unis et au Canada. Ce code est généralement utilisé pour les articles destinés à la vente en magasin. Il est encodé sous la forme de code-barres afin de permettre sa lecture par un lecteur optique dans les commerces.
+
+> Une standardisation est nécessaire pour tous code CUP qui sont toujours des codes numérique seulement.
 
 ## Stock Control
 
@@ -43,6 +42,15 @@ The pricing of variant is important. A variant can be priced directly within the
 ## Assembly or Composite
 
 \[Complete description\]
+
+## Pricing
+
+\[COMPLETE DESCRIPTION HERE\]
+
+* The price of a product is done within the stock screen.
+* The price can differ based on variant.
+* We should categorize clients based on volume.
+* We should be able to price a product for a specific client.
 
 ## Cost
 
