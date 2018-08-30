@@ -7,6 +7,10 @@ description: >-
 
 # Inventaire
 
+## La gestion de produits
+
+Votre portail Nex vous permet d'ajouter facilement différents produits ayant diverses caractéristiques. Chaque produit ajouté est lié à une configuration de produit qui définis ces diverses caractéristiques.
+
 ## Les codes de produits
 
 Dans le portail Nex, il existe deux façons différentes d'ajouter un code à vos produits : Le **SKU** et le **UPC**. Bien que plusieurs personne interchange les deux termes leur signification diffères grandement. C'est pourquoi dans le portail Nex il est possible d'entrer les deux valeurs séparément.
