@@ -5,9 +5,9 @@
 ## Changements
 
 * [2018](changements/2018/README.md)
-  * [Juillet](changements/2018/juillet.md)
-  * [Août](changements/2018/aout.md)
   * [Septembre](changements/2018/septembre.md)
+  * [Août](changements/2018/aout.md)
+  * [Juillet](changements/2018/juillet.md)
 
 ## Fonctionnalités
 
