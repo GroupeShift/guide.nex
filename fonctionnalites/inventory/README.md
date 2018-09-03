@@ -9,33 +9,42 @@ description: >-
 
 ## La gestion de produits
 
-Votre portail Nex vous permet d'ajouter facilement différents produits ayant diverses caractéristiques. Chaque produit ajouté est lié à une configuration de produit qui définis ces diverses caractéristiques.
+Le portail Nex à pour but de vous permettre de maintenanir votre inventaire adéquatements et facilements. Pour ce faire, il a été spécialement conçu pour s'adapter à vos produits à l'aide des configuration de produits et des caractéristiques de celles-ci. De plus, Nex offre la possibilité de tracabilité de produit. Cette fonctionnalité permet de voir l'historique du mouvement de quantité de chancun de vos produit.
 
-## Les codes de produits
+### Configuration de produits
+
+La fonctionnalité de configuration de produit permet de créer une coquille vide ayant les caractéristiques requises pour un produit ou, plus souvent, un groupe de produits. Un nom ainsi qu'une brève description peuvent être appliquer à la configuration. Ensuite, vous pouvez sélectionner les différentes caractéristiques de votre coquille de produit. Celles-ci apparaîterons par la suite dans l'écran de produit et devrons être remplises correctement.
+
+![](../../.gitbook/assets/configuration-produit.png)
+
+### Transaction de produits
+
+### Les codes de produits
 
 Dans le portail Nex, il existe deux façons différentes d'ajouter un code à vos produits : Le **SKU** et le **UPC**. Bien que plusieurs personne interchange les deux termes leur signification diffères grandement. C'est pourquoi dans le portail Nex il est possible d'entrer les deux valeurs séparément.
 
-![](../../.gitbook/assets/artboard-1.png)
+![](../../.gitbook/assets/sku-upc.png)
 
-### L'unité de gestion des stocks \(SKU\)
+#### L'unité de gestion des stocks \(SKU\)
 
 L'unité de gestion des stocks \(UGS\) de l'anglais _\(Stock keeping unit - SKU\)_ s'agit d'une unité de mesure utilisée en gestion des stocks. Elle désigne une référence élémentaire \(par exemple une marque ou un modèle\), à un niveau suffisamment déterminé pour servir à la gestion précise des volumes disponibles. 
 
 > Bien qu'aucune standardisation n'existe pour les codes UGS ils sont généralement désignés par un code alphanumérique.
 
-### Le code universel de produit \(UPC\)
+#### Le code universel de produit \(UPC\)
 
 Le code universel des produits CUP de l'anglais \(Universal Product Code - UPC\) est un système d'identification numérique globalement utilisé aux États-Unis et au Canada. Ce code est généralement utilisé pour les articles destinés à la vente en magasin. Il est encodé sous la forme de code-barres afin de permettre sa lecture par un lecteur optique dans les commerces.
 
 > Une standardisation est nécessaire pour tous code CUP qui sont toujours des codes numérique seulement.
 
-## Stock Control
+## Contrôle d'inventaire
 
+Le contrôle d'inventaire, est utilisé dans le but de faire un suivis de la quantité de produits que vous possédez à tout moment ainsi que d'effectuer toute traçabilité.
 Stock control, also known as inventory control, is used to show how much stock you have at any one time, and how you keep track of it. It applies to every item you use to produce a product or service, from **raw materials** to **finished goods**. It covers stock at every stage of the production process, from **purchase** and **delivery** to **using** and **re-ordering** the stock.
 
 {% page-ref page="stock-control.md" %}
 
-## Variant
+## Variantes
 
 Variants are different version of the same product. They ease the creation of products that keep the same characteristics with minor changes. A good example would be the production of clothes. The design and material is the same, but the color or the size could change.
 
@@ -43,11 +52,11 @@ The pricing of variant is important. A variant can be priced directly within the
 
 {% page-ref page="variantes.md" %}
 
-## Assembly or Composite
+## Assemblage est composites
 
 \[Complete description\]
 
-## Pricing
+## Gestion des prix
 
 \[COMPLETE DESCRIPTION HERE\]
 
@@ -56,7 +65,7 @@ The pricing of variant is important. A variant can be priced directly within the
 * We should categorize clients based on volume.
 * We should be able to price a product for a specific client.
 
-## Cost
+## Gestion des coûts
 
 Each stock can have their own cost according to the price they are bought for. The system offers three different ways of handling costs within the stock. Each of the cost variables are stored with dates of changes so the user can track back costs. The system also keep tracks of them and help the users take decisions based on those costs fluctuations.
 
@@ -66,7 +75,7 @@ The last cost is the cost of the item for the latest purchase order. This cost h
 
 \[REVISED THIS\] The next cost is a calculated cost based on all the fees and the real cost that was charged to the company when it received the last stock.
 
-## Moving
+## Mouvement d'inventaire
 
 ## Warehouse and Localization
 
@@ -78,7 +87,7 @@ A stock could have quantities in multiple warehouse and localization.
 
 The localization are places within a warehouse such as shelf, boxes, yards, silo, etc.
 
-## Automation
+## Processus automatique
 
 \[Complete description\]
 

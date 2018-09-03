@@ -13,7 +13,7 @@ A client is someone who buy goods from your company. They are often specific cus
 
 The client can also be configured based on categories. These caterogies are later used to define pricing of goods for specific category. For example, you could create a category for premium buyers where prices are all reduced by a certain amount. Categories are customizable within the system and are not mandatory.
 
-## Orders
+## Sales Orders
 
 An order is an agreement between you and your customer on arrangement of goods that are sold at a specific price. It confirms the sales of specific goods. They can follow a **purchase order** issued to you by a customer or any other communication that contains types, prices, quantities, specifications, etc. The order is confirms of the sales of goods and is usually used in the production process.
 
