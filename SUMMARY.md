@@ -21,4 +21,5 @@
 * [Rapports](fonctionnalites/reporting.md)
 * [Paramètres](fonctionnalites/settings.md)
 * [Intelligence d'affaires](fonctionnalites/business-wise.md)
+* [Tableau de bord](fonctionnalites/tableau-de-bord.md)
 
