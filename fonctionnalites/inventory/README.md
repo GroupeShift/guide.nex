@@ -27,7 +27,7 @@ Dans le portail Nex, il existe deux façons différentes d'ajouter un code à vo
 
 #### L'unité de gestion des stocks \(SKU\)
 
-L'unité de gestion des stocks \(UGS\) de l'anglais _\(Stock keeping unit - SKU\)_ s'agit d'une unité de mesure utilisée en gestion des stocks. Elle désigne une référence élémentaire \(par exemple une marque ou un modèle\), à un niveau suffisamment déterminé pour servir à la gestion précise des volumes disponibles. 
+L'unité de gestion des stocks \(UGS\) de l'anglais _\(Stock keeping unit - SKU\)_ s'agit d'une unité de mesure utilisée en gestion des stocks. Elle désigne une référence élémentaire \(par exemple une marque ou un modèle\), à un niveau suffisamment déterminé pour servir à la gestion précise des volumes disponibles.
 
 > Bien qu'aucune standardisation n'existe pour les codes UGS ils sont généralement désignés par un code alphanumérique.
 
@@ -39,8 +39,7 @@ Le code universel des produits CUP de l'anglais \(Universal Product Code - UPC\)
 
 ## Contrôle d'inventaire
 
-Le contrôle d'inventaire, est utilisé dans le but de faire un suivis de la quantité de produits que vous possédez à tout moment ainsi que d'effectuer toute traçabilité.
-Stock control, also known as inventory control, is used to show how much stock you have at any one time, and how you keep track of it. It applies to every item you use to produce a product or service, from **raw materials** to **finished goods**. It covers stock at every stage of the production process, from **purchase** and **delivery** to **using** and **re-ordering** the stock.
+Le contrôle d'inventaire, est utilisé dans le but de faire un suivis de la quantité de produits que vous possédez à tout moment ainsi que d'effectuer toute traçabilité. Stock control, also known as inventory control, is used to show how much stock you have at any one time, and how you keep track of it. It applies to every item you use to produce a product or service, from **raw materials** to **finished goods**. It covers stock at every stage of the production process, from **purchase** and **delivery** to **using** and **re-ordering** the stock.
 
 {% page-ref page="stock-control.md" %}
 

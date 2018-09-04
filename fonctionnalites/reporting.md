@@ -1,9 +1,3 @@
----
-description: >-
-  La documentation de rapports vous donne de l’information quant aux rapports
-  qui sont disponible dans voter portail Nex.
----
-
 # Rapports
 
 ## Report Management \(Reprint\)

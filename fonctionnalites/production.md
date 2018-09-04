@@ -1,9 +1,3 @@
----
-description: >-
-  La documentation de production apporte des informations pertinentes quant à la
-  gestion de la fabrication de bien finie à partir de matériaux bruts.
----
-
 # Productions
 
 ## Production Line

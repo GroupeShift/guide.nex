@@ -1,7 +1,3 @@
----
-description: Gardez votre inventaire sous contrôle.
----
-
 # Bienvenue sur Nex
 
 Nex est une application web **simplifiant** la gestion de votre inventaire. Elle permet à vos clients d’effectuer eux-mêmes leurs commandes en ligne et de **communiquer** directement avec vous et votre équipe afin de réduire au maximum les délais de traitements. 

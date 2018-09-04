@@ -1,9 +1,3 @@
----
-description: >-
-  La documentation d’achats inclus de l’information quant à tout ce qui a trait
-  à l’entrée de matériaux bruts dans Nex de l’achat aux fournisseurs.
----
-
 # Achats
 
 ## Supplier
