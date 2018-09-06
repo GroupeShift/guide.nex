@@ -19,6 +19,8 @@ La fonctionnalité de configuration de produit permet de créer une coquille vid
 
 ### Transaction de produits
 
+
+
 ### Les codes de produits
 
 Dans le portail Nex, il existe deux façons différentes d'ajouter un code à vos produits : Le **SKU** et le **UPC**. Bien que plusieurs personne interchange les deux termes leur signification diffères grandement. C'est pourquoi dans le portail Nex il est possible d'entrer les deux valeurs séparément.
