@@ -1,6 +1,8 @@
-# Septembre
+# 01 Septembre
 
-## Nouveautés et améliorations
+## Résumé des modifications
+
+### Nouveautés et améliorations
 
 *  Un nouvel écran d’erreurs a été créé afin de simplifier le processus de report de celles-ci.
 * Un écran de transition de statuts de commandes a été ajouté dans les paramètres.
@@ -9,7 +11,7 @@
 * Il est maintenant possible d’ajouter des membres à une compagnie lors de la création de celle-ci.
 * Une révision des différents textes de l’application a été effectuée afin d’uniformiser ceux-ci.
 
-## Corrections
+### Corrections
 
 *  Il n'est maintenant plus possible pour les administrateurs de voir les mots de passe générés automatiquement.
 * L’icône d’export des grilles du portail devrait maintenant être affichée correctement.
