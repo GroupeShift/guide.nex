@@ -4,3 +4,13 @@ Nex est une application web **simplifiant** la gestion de votre inventaire. Elle
 
 Que vous ayez un processus d’affaires simple ou complexe, Nex **s’adapte** sans effort à votre environnement de travail, il est entièrement personnalisable, accessible où que vous soyez et grandit avec votre entreprise à chaque étape de votre croissance.
 
+{% page-ref page="guide/mes-premiers-pas/" %}
+
+{% page-ref page="guide/je-veux-vendre-mes-produits/" %}
+
+{% page-ref page="guide/comment-gerer-mes-achats/" %}
+
+{% page-ref page="guide/vers-linfini-et-plus-loins-encore/" %}
+
+
+
