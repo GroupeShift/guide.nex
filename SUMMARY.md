@@ -5,9 +5,10 @@
 ## Guide
 
 * [Mes premiers pas](guide/mes-premiers-pas/README.md)
-  * [Démarrez rapidement](guide/mes-premiers-pas/demarrez-rapidement.md)
-  * [Collaborez avec votre équipe](guide/mes-premiers-pas/collaborez-avec-votre-equipe.md)
-  * [Lancez votre inventaire.](guide/mes-premiers-pas/lancez-votre-inventaire.md)
+  * [Configurer votre portail!](guide/mes-premiers-pas/configurer-votre-portail.md)
+  * [Lancez votre inventaire.](guide/mes-premiers-pas/lancez-votre-inventaire/README.md)
+    * [Produits simples](guide/mes-premiers-pas/lancez-votre-inventaire/produits-simples.md)
+    * [Produits complexes](guide/mes-premiers-pas/lancez-votre-inventaire/produits-complexes.md)
 * [Je veux vendre mes produits](guide/je-veux-vendre-mes-produits/README.md)
   * [Créez vos premiers clients](guide/je-veux-vendre-mes-produits/creez-vos-premier-clients.md)
   * [Maintenez vos commandes](guide/je-veux-vendre-mes-produits/maintenez-vos-commandes.md)

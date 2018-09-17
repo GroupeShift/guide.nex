@@ -1,2 +1,0 @@
-# Collaborez avec votre équipe
-

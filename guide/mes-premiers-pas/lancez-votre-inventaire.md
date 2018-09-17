@@ -1,2 +1,0 @@
-# Lancez votre inventaire.
-
