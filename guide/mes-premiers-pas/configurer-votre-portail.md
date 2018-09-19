@@ -50,3 +50,5 @@ Chaque rôle donne accès à différentes section du portail. Il est important d
 
 
 
+{% page-ref page="lancez-votre-inventaire/" %}
+
