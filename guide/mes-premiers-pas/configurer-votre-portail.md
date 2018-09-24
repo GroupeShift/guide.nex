@@ -2,15 +2,15 @@
 
 **Bienvenue !** Vous êtes au bon endroit si vous cherchez à en apprendre davantage sur l’utilisation de Nex. 
 
-Le portail Nex est le moyen le plus **efficace** pour vous et votre entreprise de simplifier votre processus d’affaire et vous permettre d’atteindre et même de **dépasser vos objectifs**. Cet article vous aidera à progresser dans le portail afin que vous puissiez établir les _bases nécessaires pour un lancement rapide_.
+Le portail Nex est le moyen le plus **efficace** pour vous et votre entreprise de simplifier vos processus d’affaire et vous permettre d’atteindre et même de **dépasser vos objectifs**. Cet article vous aidera à progresser dans le portail afin que vous puissiez établir les _bases nécessaires pour un lancement rapide_.
 
-De la **configuration** de votre compagnie au sein de votre portail jusqu'à l’**ajout de produits** destiné à optimiser votre inventaire, le guide des premiers pas est là! La configuration de votre portail débute donc dans les _paramètres_ de ce dernier.
+De la **configuration** de votre compagnie au sein de votre portail jusqu'à l’**ajout de produits** destinés à optimiser votre inventaire, le guide des premiers pas est là pour vous accompagner ! La configuration de votre portail débute donc dans les _paramètres_ de ce dernier.
 
 {% hint style="info" %}
-L'option **paramètres** du menu de gauche.
+L'option **Paramètres** du menu de gauche.
 {% endhint %}
 
-C’est à cette endroit que vous aurez accès à toutes les configurations possibles de votre portail. Dans ce guide de premiers pas, nous nous intéresserons principalement aux paramètres suivants : _Informations_; _Apparence_; _Catégories de stock_ et _Mon équipe_.
+C’est à cet endroit que vous aurez accès à toutes les configurations de votre portail. Dans ce guide de premiers pas, nous nous intéresserons principalement aux paramètres suivants : **Informations**, **Apparence**, **Catégories de stock** et **Mon équipe**.
 
 ## Informations relatives à votre entreprise
 
