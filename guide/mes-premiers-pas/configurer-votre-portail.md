@@ -20,7 +20,7 @@ Afin de débuter de la meilleure façons qu'il soit, vous devrez entrer les info
 
 Vous trouverez ici les informations relatives à votre entreprise tels que votre site web, vos adresses, vos coordonnées téléphoniques ainsi que votre logo. De plus, il vous est possible de voir le nombre d’utilisateurs de votre portail ainsi que le numéro de version. 
 
-Les informations relatives à votre entreprises sont primordiale dans le portail. Elles seront utilisés automatiquement tout au long de votre processus d'affaire. _Par example, lors de la création de commande afin de déterminer d'où proviennent les produits._
+Les informations relatives à votre entreprises sont primordiale dans le portail. Elles seront utilisés automatiquement tout au long de votre processus d'affaire. _Par exemple, lors de la création de commande afin de déterminer d'où proviennent les produits._
 
 Commencez par entrer les informations relatives à votre entreprise puis, retourner dans paramètres.
 
