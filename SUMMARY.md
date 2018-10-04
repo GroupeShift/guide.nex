@@ -41,6 +41,7 @@
 ## Changements
 
 * [2018](changements/2018/README.md)
+  * [Octobre](changements/2018/octobre.md)
   * [Septembre](changements/2018/septembre.md)
   * [Août](changements/2018/aout.md)
   * [Juillet](changements/2018/juillet.md)
