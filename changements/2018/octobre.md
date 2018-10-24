@@ -29,7 +29,7 @@ Cette simplification permettra donc de voir l'information pertinentes et ce plus
 
 ### Résumé des modifications
 
-#### Nouveautés et améliorations {#nouveautes-et-ameliorations}
+#### Nouveautés et améliorations <a id="nouveautes-et-ameliorations"></a>
 
 * Une amélioration des grilles de l'application est en cours dans divers écrans du portail. Il est maintenant possible de modifier et supprimer des items directement depuis la liste.
 * Une amélioration de l'expérience utilisateur quant à l'ajout de diverses information connexes est en cours dans divers écrans du portail. Il est maintenant possible d'ajouter une adresse depuis l'écran de commande.
@@ -39,7 +39,7 @@ Cette simplification permettra donc de voir l'information pertinentes et ce plus
 * Les adresses sont maintenant complétées automatiquement **avec l'aide de Google**.
 * Il est maintenant possible de sélectionner plusieurs statuts de commande à la fois dans la liste de commandes.
 
-#### **Corrections** {#corrections}
+#### **Corrections** <a id="corrections"></a>
 
 * Correction d'une erreur ne permettant plus à l'utilisateur de créer de nouvelles caractéristiques.
 * Correction de divers problème d'affichage dans le portail.
@@ -55,8 +55,9 @@ C’est cette vision qui à amener l’équipe de Nex a repensé l’intégratio
 
 ### Ajout rapide d'information connexes
 
-C’est dans la même vision d’amélioration de l’expérience utilisateur que l’équipe a conclu que l’ajout de différents éléments connexe à une fonctionnalité devait être révisé. C’est le cas d’une adresse pouvant être sélectionné dans l’écran de commande. Lors d’un oubli, l’utilisateur devait retourner dans l’écran de compagnie afin d’y ajouter une adresse puis retourner dans l’écran de commande pour la sélectionner. 
+C’est dans la même vision d’amélioration de l’expérience utilisateur que l’équipe a conclu que l’ajout de différents éléments connexe à une fonctionnalité devait être révisé. C’est le cas d’une adresse pouvant être sélectionné dans l’écran de commande. Lors d’un oubli, l’utilisateur devait retourner dans l’écran de compagnie afin d’y ajouter une adresse puis retourner dans l’écran de commande pour la sélectionner.
 
 ![](../../.gitbook/assets/quickadd.gif)
 
 Cette nouvelle fonctionnalité permet donc d’ajouter rapidement un élément connexe tel qu’une adresse directement depuis l’écran dans lequel vous vous trouvez. Cette fonctionnalité améliore donc grandement la facilité et la rapidité des interactions avec votre portail.
+

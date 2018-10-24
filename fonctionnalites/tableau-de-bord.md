@@ -4,11 +4,5 @@ Le tableau de bord est le premier écran qui vous sera affiché lors de votre co
 
 En tant qu’administrateur, vous aurez accès à trois tableaux de bord différents. Chacun d’entre eux présente une vue différente qui sera affichée à votre équipe ou votre client.
 
-![](../../.gitbook/assets/dashboard.gif)
-
-{% page-ref page="clients.md" %}
-
-{% page-ref page="ventes.md" %}
-
-{% page-ref page="administrateurs.md" %}
+![](../.gitbook/assets/dashboard.gif)
 

@@ -23,10 +23,7 @@
 
 ## Fonctionnalités
 
-* [Tableau de bord](fonctionnalites/tableau-de-bord/README.md)
-  * [Clients](fonctionnalites/tableau-de-bord/clients.md)
-  * [Ventes](fonctionnalites/tableau-de-bord/ventes.md)
-  * [Administrateurs](fonctionnalites/tableau-de-bord/administrateurs.md)
+* [Tableau de bord](fonctionnalites/tableau-de-bord.md)
 * [Achats](fonctionnalites/purchasing.md)
 * [Inventaire](fonctionnalites/inventory/README.md)
   * [Contrôle des stocks](fonctionnalites/inventory/stock-control.md)
