@@ -1,5 +1,30 @@
 # Octobre
 
+## 17 Octobre
+
+### Résumé des modifications
+
+#### Nouveautés et améliorations
+
+* Il est maintenant possible de voir la liste des changements survenus dans une commande.
+* Il est maintenant possible d'ajouter et de modifier votre liste de fournisseurs ainsi que leurs stocks.
+
+#### Corrections
+
+* Correction d'une erreur lors de la création de thèmes avec des accents ou caractères spéciaux.
+* Correction des sommations dans l'écran de commande.
+* Correction d'une erreur lors de la désactivation d'un membre de compagnie.
+* Correction de divers problème d'affichage dans le portail.
+* Correction de divers problème de performance.
+
+### Le sélecteur de colonne
+
+L'expérience utilisateur est une de nos priorités lors de l'élaboration de Nex. C'est ce qui nous permet sans cesse d'améliorer l'utilisation et simplifier la gestion de vos achats, de votre inventaire et de vos ventes. Cette légère amélioration permettra à plusieurs utilisateurs de modifier les différentes colonnes qu'ils afficheront lors de l'ouverture des listes.
+
+![](../../.gitbook/assets/columnselection.gif)
+
+Cette simplification permettra donc de voir l'information pertinentes et ce plus rapidement.
+
 ## 04 Octobre
 
 ### Résumé des modifications
@@ -35,29 +60,3 @@ C’est dans la même vision d’amélioration de l’expérience utilisateur qu
 ![](../../.gitbook/assets/quickadd.gif)
 
 Cette nouvelle fonctionnalité permet donc d’ajouter rapidement un élément connexe tel qu’une adresse directement depuis l’écran dans lequel vous vous trouvez. Cette fonctionnalité améliore donc grandement la facilité et la rapidité des interactions avec votre portail.
-
-## 17 Octobre
-
-### Résumé des modifications
-
-#### Nouveautés et améliorations
-
-* Il est maintenant possible de voir la liste des changements survenus dans une commande.
-* Il est maintenant possible d'ajouter et de modifier votre liste de fournisseurs ainsi que leurs stocks.
-
-#### Corrections
-
-* Correction d'une erreur lors de la création de thèmes avec des accents ou caractères spéciaux.
-* Correction des sommations dans l'écran de commande.
-* Correction d'une erreur lors de la désactivation d'un membre de compagnie.
-* Correction de divers problème d'affichage dans le portail.
-* Correction de divers problème de performance.
-
-### Le sélecteur de colonne
-
-L'expérience utilisateur est une de nos priorités lors de l'élaboration de Nex. C'est ce qui nous permet sans cesse d'améliorer l'utilisation et simplifier la gestion de vos achats, de votre inventaire et de vos ventes. Cette légère amélioration permettra à plusieurs utilisateurs de modifier les différentes colonnes qu'ils afficheront lors de l'ouverture des listes.
-
-![](../../.gitbook/assets/columnselection.gif)
-
-Cette simplification permettra donc de voir l'information pertinentes et ce plus rapidement.
-
