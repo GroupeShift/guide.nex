@@ -8,5 +8,7 @@ Le premier cas de figure, le plus simple, est la gestion de produits finis ne n�
 
 Le second cas, plus complexe, est destiné à la gestion de produits nécessitant un assemblage, voire des étapes de productions. Ces produits auront des caractéristiques distinctes et variables. Il peut s’agir de production et de ventes de vélo ou encore de matériaux destinés à la construction. Ce cas convient aux entreprises manufacturières qui achètent des matériaux bruts afin de les transformer.
 
-{% page-ref page="produits-complexes.md" %}
+{% hint style="warning" %}
+Les produits complexes seront prochainement expliqué dans le guide de Nex. Pour le moment, si vous pensez que vos produits requiert une configuration avancé, veuillez communiquer avec notre équipe.
+{% endhint %}
 
