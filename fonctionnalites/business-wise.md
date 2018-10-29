@@ -1,4 +1,0 @@
-# Intelligence d'affaires
-
-
-

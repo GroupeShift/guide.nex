@@ -22,7 +22,7 @@
 
 ## Fonctionnalités
 
-* [Tableau de bord](fonctionnalites/tableau-de-bord.md)
+* [Tableau de bord](fonctionnalites/dashboard.md)
 * [Achats](fonctionnalites/purchasing.md)
 * [Inventaire](fonctionnalites/inventory/README.md)
   * [Contrôle des stocks](fonctionnalites/inventory/stock-control.md)
@@ -32,7 +32,6 @@
 * [Productions](fonctionnalites/production.md)
 * [Rapports](fonctionnalites/reporting.md)
 * [Paramètres](fonctionnalites/settings.md)
-* [Intelligence d'affaires](fonctionnalites/business-wise.md)
 
 ## Changements
 
