@@ -1,6 +1,6 @@
 # Juillet
 
-## Nouveautés et améliorations
+## Nouveautés et améliorations Allo
 
 * La quantités des stocks est maintenant catégorisé en plusieurs états : Projeté\(s\), En Inventaire, Réservé\(s\) et Disponible\(s\).
 * Amélioration de la grille de données et de l'affichage des noms.
